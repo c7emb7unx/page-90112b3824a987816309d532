@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a44775f94587c614636ac725",
+  "owner": "c7emb7unx",
+  "repo": "page-90112b3824a987816309d532",
+  "title": "狗子",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "90112b3824a987816309d532",
+      "a": "狗子",
+      "b": "机场官网线路发布页",
+      "entity": "狗子",
+      "brand": "狗子",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0de1b70e77782dc1d619fd64d0ab7d528ed58ca0ba903e99c943078815f7c0b1",
+      "content": {
+        "primary_entity": "狗子",
+        "keyword1": "狗子",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，手机、电脑和路由器各有合适方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档配置订阅，即可连接使用。",
+          "AI_CLOSING_TITLE": "开始使用狗子",
+          "AI_DESCRIPTION": "，狗子按流量与设备数划分三档订阅，基础版适合单人或双人轻度使用，旗舰版支持更多设备与专线加速，团队版面向多设备与企业路由需求。",
+          "AI_FAQ_ANSWER_1": "狗子提供基础版、旗舰版和团队版三档。基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。同一时间超出数量可能导致连接不稳定，增加设备可升级到更高档套餐。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算，例如基础版月付 ¥15，年付约 ¥150；旗舰版月付 ¥35，年付约 ¥350；团队版月付 ¥85，年付约 ¥850。长期使用选年付可以降低月均成本。",
+          "AI_FAQ_ANSWER_4": "按顺序操作：先根据设备数量和流量需求选择套餐，再查看对应客户端的适配要求，最后按客户端文档导入订阅信息完成配置。客户端版本不同，导入方式略有差异。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线节点，对游戏延迟和流媒体体验有优化；团队版提供 VIP 高带宽节点和定制路由。如果对延迟敏感或需要多设备共用，选旗舰版或团队版更合适。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "狗子有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "月付和年付价格有什么区别？",
+          "AI_FAQ_QUESTION_4": "怎么导入订阅到客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合什么场景？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "套餐、设备与周期是选择狗子的三个核心维度。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月 含 100GB 流量与 3 台设备，适合单人日常浏览和基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版 ¥35/月 含 300GB 流量、5 台设备与 IPLC 专线，适合多设备与游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版 ¥85/月 含 1000GB 流量与 20 台设备，支持定制路由，适合小组或企业使用。",
+          "AI_FEATURE_TITLE_1": "套餐匹配需求",
+          "AI_FEATURE_TITLE_2": "按设备数选择",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从需求到连接，三步完成配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "狗子提供三档海外加速订阅，覆盖从个人到团队的流量与设备需求，按客户端文档配置订阅后即可连接使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付方案降低月均成本",
+          "AI_PLANS_INTRO": "基础版满足轻量使用，旗舰版适合多设备与游戏加速，团队版面向高流量与定制路由。对比流量、设备数和专线权益，选出合适档位。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量，对比基础版、旗舰版与团队版的权益。",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由器等设备的系统版本，查看客户端适配要求。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅信息，完成连接与日常切换。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "狗子订阅选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dyhyk.cn",
+    "host": "dyhyk.cn"
+  },
+  "file_hashes": {
+    "index.html": "9ce4391b35f7b406f195f701c70500ece977d6dd49956219aa205ca6be169c90",
+    "sitemap.xml": "bbf2d7eedacbb1e4f2e099a80cf47b2c5a77e0bb40ee290b563a6c93b43d781b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "30bb91ddbbdcb0362b0aa404bf1a185e76004705bf8cb5be86ed9d52ff7c98dd",
+    "robots.txt": "81c5b1226d3afff193bfc9430ea526fdc230ecd9dbc7a0811c8e58feacdd1683",
+    "b0abe0758822bdfd23cb5136cfa402fb.txt": "a108f3a64e30c6f05bbad56c42307b694841bede8750ff28c2de9b4529c9d897"
+  },
+  "revision": "fd75dafbb4c5acb2f7f4bc54bb99d28f78005a3a0f2fac4e8688daafe329fd74"
+}
